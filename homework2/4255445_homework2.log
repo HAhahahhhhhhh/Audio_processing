@@ -1,0 +1,306 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.28)  27 SEP 2024 15:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./4255445_homework2.tex
+(4255445_homework2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks18
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box52
+)
+(4255445_homework2.aux)
+\openout1 = `4255445_homework2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen149
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks20
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/SpearkerVariable1.
+png, id=1, 313.9228pt x 442.65375pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/SpearkerVaria
+ble1.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/SpearkerVariab
+le1.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/SpearkerVariable1.png  used on input line 23.
+(pdftex.def)             Requested size: 207.0021pt x 291.88219pt.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vocalTract1.png, i
+d=3, 304.13625pt x 490.83376pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vocalTract1.p
+ng Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vocalTract1.pn
+g>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vocalTract1.png  used on input line 30.
+(pdftex.def)             Requested size: 207.0021pt x 334.07709pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{C:/Users/MJM/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <C:/Users/MJM/O
+neDrive/桌面/Audio Processing/homework2/pic/SpearkerVariable1.png>]
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a.png, id=13
+, 248.42813pt x 497.60907pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a.png G
+raphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-a.png  used on input line 40.
+(pdftex.def)             Requested size: 170.7181pt x 341.43721pt.
+
+Overfull \hbox (15.46915pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a-2D.png, id
+=14, 249.18094pt x 492.33937pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a-2D.pn
+g Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a-2D.png
+>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-a-2D.png  used on input line 45.
+(pdftex.def)             Requested size: 170.72212pt x 341.4499pt.
+
+Overfull \hbox (15.47318pt too wide) in paragraph at lines 45--46
+ [][] 
+ []
+
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i.png, id=15
+, 250.68657pt x 501.37312pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i.png G
+raphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-i.png  used on input line 53.
+(pdftex.def)             Requested size: 170.72472pt x 341.44943pt.
+
+Overfull \hbox (15.47577pt too wide) in paragraph at lines 53--54
+ [][] 
+ []
+
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i-2D.png, id
+=16, 250.68657pt x 499.8675pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i-2D.pn
+g Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i-2D.png
+>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-i-2D.png  used on input line 58.
+(pdftex.def)             Requested size: 170.72472pt x 341.44612pt.
+
+Overfull \hbox (15.47577pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u.png, id=17
+, 252.19218pt x 502.12593pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u.png G
+raphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-u.png  used on input line 66.
+(pdftex.def)             Requested size: 170.71878pt x 341.44878pt.
+
+Overfull \hbox (15.46983pt too wide) in paragraph at lines 66--67
+ [][] 
+ []
+
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u-2D.png, id
+=18, 251.43938pt x 499.8675pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u-2D.pn
+g Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u-2D.png
+>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel-u-2D.png  used on input line 71.
+(pdftex.def)             Requested size: 170.7156pt x 341.44612pt.
+
+Overfull \hbox (15.46666pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+[2 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vocalTract1.png
+>] [3 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a.png>
+ <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-a-2D.png>]
+[4 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i.png> <C
+:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-i-2D.png>]
+[5 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u.png> <C
+:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel-u-2D.png>]
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/original_gesture_s
+core.png, id=38, 707.64375pt x 373.395pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/original_gest
+ure_score.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/original_gestu
+re_score.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/original_gesture_score.png  used on input line 80.
+(pdftex.def)             Requested size: 276.00105pt x 145.63486pt.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/tongue-tip-change.
+png, id=39, 335.00156pt x 94.10156pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/tongue-tip-ch
+ange.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/tongue-tip-cha
+nge.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/tongue-tip-change.png  used on input line 86.
+(pdftex.def)             Requested size: 276.00105pt x 77.52847pt.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/last_two_gesture.p
+ng, id=40, 624.08156pt x 154.32657pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/last_two_gest
+ure.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/last_two_gestu
+re.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/last_two_gesture.png  used on input line 92.
+(pdftex.def)             Requested size: 276.00105pt x 68.2524pt.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/glottal_change.png
+, id=41, 605.26125pt x 54.2025pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/glottal_chang
+e.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/glottal_change
+.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/glottal_change.png  used on input line 98.
+(pdftex.def)             Requested size: 276.00105pt x 24.71675pt.
+<C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel_value_change
+.png, id=42, 417.81094pt x 127.22531pt>
+File: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel_value_c
+hange.png Graphic file (type png)
+<use C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/vowel_value_ch
+ange.png>
+Package pdftex.def Info: C:/Users/MJM/OneDrive/桌面/Audio Processing/homework
+2/pic/vowel_value_change.png  used on input line 104.
+(pdftex.def)             Requested size: 276.00105pt x 84.04854pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/original_gestur
+e_score.png> <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/tongu
+e-tip-change.png> <C:/Users/MJM/OneDrive/桌面/Audio Processing/homework2/pic/
+last_two_gesture.png>] [7 <C:/Users/MJM/OneDrive/桌面/Audio Processing/homewo
+rk2/pic/glottal_change.png> <C:/Users/MJM/OneDrive/桌面/Audio Processing/home
+work2/pic/vowel_value_change.png>] (4255445_homework2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1695 strings out of 474542
+ 32971 string characters out of 5754267
+ 1925978 words of memory out of 5000000
+ 23958 multiletter control sequences out of 15000+600000
+ 562017 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,357b,291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr17.pfb>
+Output written on 4255445_homework2.pdf (7 pages, 646998 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
